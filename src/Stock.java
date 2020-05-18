@@ -16,4 +16,8 @@ public class Stock extends Subject {
             notifyObs();
         }
     }
+
+    public void printSomething() {
+        System.out.println("Something new");
+    }
 }
