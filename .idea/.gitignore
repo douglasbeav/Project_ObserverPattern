@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+/../out/production/Observer2/DataWin.class
+/../out/production/Observer2/GraphicWin.class
+/misc.xml
+/modules.xml
+/../out/production/Observer2/Observer.class
+/../Observer2.iml
+/../out/production/Observer2/ObserverTest$1.class
+/../out/production/Observer2/ObserverTest.class
+/../out/production/Observer2/Stock.class
+/../out/production/Observer2/Subject.class
